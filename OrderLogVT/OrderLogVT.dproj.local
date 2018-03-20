@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015.11.23 14:32:41.232.pas,C:\Users\Andrey\Documents\RAD Studio\Projects\Unit1.pas=C:\nTick\OrderLogVT\fMain.pas</Transaction>
+    <Transaction>2015.11.23 14:32:41.232.dfm,C:\Users\Andrey\Documents\RAD Studio\Projects\Unit1.dfm=C:\nTick\OrderLogVT\fMain.dfm</Transaction>
+    <Transaction>2015.11.23 14:32:46.091.dproj,C:\Users\Andrey\Documents\RAD Studio\Projects\Project3.dproj=C:\nTick\OrderLogVT\OrderLogVT.dproj</Transaction>
+    <Transaction>2015.11.24 15:35:29.761.pas,C:\nTick\OrderLogVT\Unit1.pas=C:\nTick\OrderLogVT\SeriesIntf1.pas</Transaction>
+    <Transaction>2016.08.06 22:02:41.401.pas,C:\nTick\OrderLogVT\Unit2.pas=C:\nTick\OrderLogVT\fChart.pas</Transaction>
+    <Transaction>2016.08.06 22:02:41.401.dfm,C:\nTick\OrderLogVT\Unit2.dfm=C:\nTick\OrderLogVT\fChart.dfm</Transaction>
+    <Transaction>2016.08.07 20:56:35.739.pas,C:\nTick\OrderLogVT\fChart.pas=</Transaction>
+    <Transaction>2016.08.07 20:56:35.739.dfm,C:\nTick\OrderLogVT\fChart.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>
