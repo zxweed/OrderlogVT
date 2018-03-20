@@ -1,1 +1,1 @@
-# OrderlogVT
+# Orderlog viewer (intermediate binary format)
